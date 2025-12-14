@@ -149,6 +149,6 @@ http://localhost:8501
 
 ## ✨ Author
 
-**Hari Om**
+**Dharmendra singh**
 B.Tech CSE (Data Science)
 AI/ML | Data Science | RAG Systems | Streamlit Applications
